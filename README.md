@@ -59,6 +59,7 @@ calc.html
             <button onclick="appendToDisplay('.')">.</button>
             <button onclick="calculate()">=</button>
             <button onclick="appendToDisplay('+')">+</button>
+            <button onclick="appendToDisplay('%')">%</button>
         </div>
     </div>
     <script src="calc.js"></script>
@@ -121,7 +122,7 @@ function evalExpression(expression) {
 ```
 
 ## OUTPUT:
-![alt text](f.png)
-![alt text](g.png)
+![alt text](2024-04-29.png)
+![alt text](<2024-04-29 (1).png>)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
